@@ -1,3 +1,6 @@
+## 1.2.5
+* updated to flutter 2.0
+
 ## 1.2.4
 * Fixed issue RenderBox overflow
 * Added rtl and ltr support
